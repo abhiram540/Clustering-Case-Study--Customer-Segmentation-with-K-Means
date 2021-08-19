@@ -1,0 +1,2 @@
+# Clustering Case Study - Customer Segmentation with K-Means
+ In this case study, I've implemented the K-Means clustering algorithm, found the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualized the clusters with Principal Components Analysis (PCA). I've used real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers.
